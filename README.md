@@ -108,3 +108,9 @@ Classification Report:
 weighted avg       0.75      0.76      0.75      2897  
 ![](confusion_matrix.png)
 # Summary
+So in the result we have the best outcome for SVM  
+We are using CountVectorizer(stop_words='english')  
+And svm_model kernel='linear', C=1, random_state=42  
+We can achieve better perfomance of the model in the future  
+By training it on a larger dataset and  
+By improving tokenizer
