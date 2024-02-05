@@ -17,15 +17,15 @@
 ### Checking number of values in df
 |                      |           |
 |----------------------|-----------|
-United            3822  
-US Airways        2913  
-American          2604   
-Southwest         2420  
-Delta             2222  
-Virgin America     504  
+|United|            3822|  
+|US Airways|        2913|  
+|American|          2604|   
+|Southwest|         2420|  
+|Delta|             2222|  
+|Virgin America|     504|  
 
 ### Grouping Negative feedback by airlines in new dataframe
-|airline|           |
+|airline|#|
 |----------------------|-----------|
 |American|          1864|  
 |Delta|              955|  
