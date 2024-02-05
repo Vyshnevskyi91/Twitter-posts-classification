@@ -22,6 +22,15 @@ Southwest         2420
 Delta             2222  
 Virgin America     504  
 Name: airline, dtype: int64
+### Grouping Negative feedback by airlines in new dataframe
+airline  
+American          1864  
+Delta              955  
+Southwest         1186  
+US Airways        2263  
+United            2633  
+Virgin America     181  
+Name: airline, dtype: int64
 ## Data Visualization
 <img src="Bar_Plot.jpg" alt="Bar Plot" width="2000"/>
 
