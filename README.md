@@ -52,7 +52,7 @@ Number of empty rows in 'negativereason' column: 0
 
 ## Choosing Machile Learning Algorithm
 
-SVM Results:  
+### SVM Results:  
 Accuracy: 0.7566448049706593  
 Confusion Matrix:  
 [1537  178   68]  
