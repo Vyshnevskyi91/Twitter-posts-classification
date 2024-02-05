@@ -51,6 +51,24 @@ Number of empty rows in 'negativereason' column: 0
 <img src="Bar_Plot.jpg" alt="Bar Plot" width="2000"/>
 
 ## Choosing Machile Learning Algorithm
+### Naive Bayes Results:
+Accuracy: 0.7431826026924404  
+Confusion Matrix:  
+[1698   60   25]  
+ [ 371  212   40]  
+ [ 206   42  243]  
+Classification Report:
+```
+            precision    recall  f1-score   support
+```            
+    negative       0.75      0.95      0.84      1783
+     neutral       0.68      0.34      0.45       623
+    positive       0.79      0.49      0.61       491
+
+    accuracy                           0.74      2897
+   macro avg       0.74      0.60      0.63      2897
+weighted avg       0.74      0.74      0.72      2897
+
 ### Random Forest Results:
 Accuracy: 0.7473248187780462  
 Confusion Matrix:  
