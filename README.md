@@ -45,7 +45,8 @@ Name: airline, dtype: int64
 |Bad Flight            |        104|
 |longlines             |         50|
 |Damaged Luggage       |         11|
-
+### Checking for empty rows
+Number of empty rows in 'negativereason' column: 0
 ## Data Visualization
 <img src="Bar_Plot.jpg" alt="Bar Plot" width="2000"/>
 
