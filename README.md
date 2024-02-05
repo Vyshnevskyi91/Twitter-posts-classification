@@ -51,7 +51,23 @@ Number of empty rows in 'negativereason' column: 0
 <img src="Bar_Plot.jpg" alt="Bar Plot" width="2000"/>
 
 ## Choosing Machile Learning Algorithm
+### Random Forest Results:
+Accuracy: 0.7473248187780462
+Confusion Matrix:
+[[1602  135   46]
+ [ 289  276   58]
+ [ 143   61  287]]
+Classification Report:  
+```
+            precision    recall  f1-score   support
+```            
+    negative       0.79      0.90      0.84      1783
+     neutral       0.58      0.44      0.50       623
+    positive       0.73      0.58      0.65       491
 
+    accuracy                           0.75      2897
+   macro avg       0.70      0.64      0.66      2897
+weighted avg       0.73      0.75      0.74      2897
 ### SVM Results:  
 Accuracy: 0.7566448049706593  
 Confusion Matrix:  
