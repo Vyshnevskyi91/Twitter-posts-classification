@@ -22,9 +22,9 @@
 SVM Results:
 Accuracy: 0.7566448049706593
 Confusion Matrix:
-[[1537  178   68]
- [ 225  333   65]
- [  97   72  322]]
+[[1537  178   68]  
+[ 225  333   65]  
+[  97   72  322]]
 Classification Report:
               precision    recall  f1-score   support
 
