@@ -15,7 +15,7 @@
 | 567594449874587648 | negative           |                            1 | Customer Service Issue |                        0.3451 | Southwest |                          | VahidESQ    |                       |             0 | @SouthwestAir its cool that my bags take a bit longer, dont give me baggage blue balls-turn the carousel on, tell me it's coming, then not.  |             | 2015-02-17 00:00:36 -0800 | Los Angeles, CA   | Pacific Time (US & Canada) |
 
 ### Checking number of values in df
-|                      |           |
+|Airline                      | Feedback number          |
 |----------------------|-----------|
 |United|            3822|  
 |US Airways|        2913|  
@@ -25,7 +25,7 @@
 |Virgin America|     504|  
 
 ### Grouping Negative feedback by airlines in new dataframe
-|airline|#|
+|airline|Negative feedback number|
 |----------------------|-----------|
 |American|          1864|  
 |Delta|              955|  
@@ -35,7 +35,7 @@
 |Virgin America|     181|  
 
 ### Reason of negative feedback
-|                      |           |
+|Reason                      |  Amount         |
 |----------------------|-----------|
 |Customer Service Issue|        811|
 |No reason             |        650|
