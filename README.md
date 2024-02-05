@@ -50,7 +50,7 @@ Number of empty rows in 'negativereason' column: 0
 ## Data Visualization
 <img src="Bar_Plot.jpg" alt="Bar Plot" width="2000"/>
 
-## Training Support Vector Machine
+## Choosing Machile Learning Algorithm
 
 SVM Results:  
 Accuracy: 0.7566448049706593  
