@@ -52,11 +52,11 @@ Number of empty rows in 'negativereason' column: 0
 
 ## Choosing Machile Learning Algorithm
 ### Random Forest Results:
-Accuracy: 0.7473248187780462
-Confusion Matrix:
-[[1602  135   46]
- [ 289  276   58]
- [ 143   61  287]]
+Accuracy: 0.7473248187780462  
+Confusion Matrix:  
+[1602  135   46]  
+ [ 289  276   58]  
+ [ 143   61  287]  
 Classification Report:  
 ```
             precision    recall  f1-score   support
