@@ -16,7 +16,9 @@
 
 ## Data Visualization
 <img src="Bar_Plot.jpg" alt="Bar Plot" width="2000"/>
+
 ## Training Support Vector Machine
+
 SVM Results:
 Accuracy: 0.7566448049706593
 Confusion Matrix:
