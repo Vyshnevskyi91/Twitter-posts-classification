@@ -32,6 +32,8 @@ United            2633
 Virgin America     181  
 Name: airline, dtype: int64
 ### Reason of negative feedback
+|                      |           |
+|______________________|___________|
 |Customer Service Issue|        811|
 |                      |        650|
 |Late Flight           |        453|
