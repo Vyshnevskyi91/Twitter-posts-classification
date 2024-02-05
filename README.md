@@ -108,6 +108,8 @@ Classification Report:
 weighted avg       0.75      0.76      0.75      2897  
 ![](confusion_matrix.png)
 # Summary
+We accomplished pur mission to build model that can classify Twitter posts  
+By the feedback(Positive, Negative< Neutral)  
 So in the result we have the best outcome for SVM  
 We are using CountVectorizer(stop_words='english')  
 And svm_model kernel='linear', C=1, random_state=42  
