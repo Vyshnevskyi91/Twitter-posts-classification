@@ -14,4 +14,5 @@
 | 567592368451248130 | negative           |                            1 | Late Flight            |                            1 |  United   |                          | brenduch    |                       |             0 | @united the we got into the gate at IAH on time and have given our seats and closed the flight. If you know people is arriving, have to wait |             | 2015-02-16 23:52:20 -0800 |                  | Buenos Aires                |
 | 567594449874587648 | negative           |                            1 | Customer Service Issue |                        0.3451 | Southwest |                          | VahidESQ    |                       |             0 | @SouthwestAir its cool that my bags take a bit longer, dont give me baggage blue balls-turn the carousel on, tell me it's coming, then not.  |             | 2015-02-17 00:00:36 -0800 | Los Angeles, CA   | Pacific Time (US & Canada) |
 
+## Data Visualization
 <img src="Bar_Plot.jpg" alt="Bar Plot" width="2000"/>
