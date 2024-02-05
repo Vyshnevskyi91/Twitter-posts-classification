@@ -16,3 +16,19 @@
 
 ## Data Visualization
 <img src="Bar_Plot.jpg" alt="Bar Plot" width="2000"/>
+SVM Results:
+Accuracy: 0.7566448049706593
+Confusion Matrix:
+[[1537  178   68]
+ [ 225  333   65]
+ [  97   72  322]]
+Classification Report:
+              precision    recall  f1-score   support
+
+    negative       0.83      0.86      0.84      1783
+     neutral       0.57      0.53      0.55       623
+    positive       0.71      0.66      0.68       491
+
+    accuracy                           0.76      2897
+   macro avg       0.70      0.68      0.69      2897
+weighted avg       0.75      0.76      0.75      2897
