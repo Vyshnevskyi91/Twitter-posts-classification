@@ -15,12 +15,12 @@
 | 567594449874587648 | negative           |                            1 | Customer Service Issue |                        0.3451 | Southwest |                          | VahidESQ    |                       |             0 | @SouthwestAir its cool that my bags take a bit longer, dont give me baggage blue balls-turn the carousel on, tell me it's coming, then not.  |             | 2015-02-17 00:00:36 -0800 | Los Angeles, CA   | Pacific Time (US & Canada) |
 
 ### Checking number of values in df
-United            3822
-US Airways        2913
-American          2604
-Southwest         2420
-Delta             2222
-Virgin America     504
+United            3822  
+US Airways        2913  
+American          2604   
+Southwest         2420  
+Delta             2222  
+Virgin America     504  
 Name: airline, dtype: int64
 ## Data Visualization
 <img src="Bar_Plot.jpg" alt="Bar Plot" width="2000"/>
