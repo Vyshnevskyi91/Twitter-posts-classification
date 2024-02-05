@@ -32,17 +32,17 @@ United            2633
 Virgin America     181  
 Name: airline, dtype: int64
 ### Reason of negative feedback
-Customer Service Issue         811  
-                               650  
-Late Flight                    453  
-Can't Tell                     246  
-Cancelled Flight               189  
-Lost Luggage                   154  
-Flight Attendant Complaints    123  
-Flight Booking Problems        122  
-Bad Flight                     104  
-longlines                       50  
-Damaged Luggage                 11  
+Customer Service Issue|        811  
+                      |        650  
+Late Flight           |        453  
+Can't Tell            |        246  
+Cancelled Flight      |        189  
+Lost Luggage          |        154  
+Flight Attendant Complaints|   123  
+Flight Booking Problems|       122  
+Bad Flight            |        104  
+longlines             |         50  
+Damaged Luggage       |         11  
 Name: negativereason, dtype: int64
 ## Data Visualization
 <img src="Bar_Plot.jpg" alt="Bar Plot" width="2000"/>
